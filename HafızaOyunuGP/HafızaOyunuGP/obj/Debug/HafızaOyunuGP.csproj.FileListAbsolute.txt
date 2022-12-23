@@ -1,0 +1,22 @@
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\bin\Debug\HafızaOyunuGP.exe.config
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\bin\Debug\HafızaOyunuGP.exe
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\bin\Debug\HafızaOyunuGP.pdb
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.AssemblyReference.cache
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.Form1.resources
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.Properties.Resources.resources
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.GenerateResource.cache
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.CoreCompileInputs.cache
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.exe
+C:\Users\ademc\source\repos\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.pdb
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\bin\Debug\HafızaOyunuGP.exe.config
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\bin\Debug\HafızaOyunuGP.exe
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\bin\Debug\HafızaOyunuGP.pdb
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.Form1.resources
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.Properties.Resources.resources
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.exe
+C:\Users\yusuf\Desktop\Yeni klasör (2)\235-oyunlar-otomasyonu-9203ce4c051c11f9398ac23ef0cafed84429a729\HafızaOyunuGP\HafızaOyunuGP\obj\Debug\HafızaOyunuGP.pdb
